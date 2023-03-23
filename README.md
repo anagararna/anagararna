@@ -2,9 +2,9 @@
 
 <h3 align="center">Ahora mismo estudiante "Fullstack Developer" en FactoriaF5.</h3>
 📫 Contacta conmigo anagararna@gmail.com
-<h3 align="left">Perfil:</h3>
-<h5>Soy una Junior FullStack Developer apasionada por el desarrollo web y actualmente estoy completando mi formación en programación. Me encanta aprender nuevas habilidades y aplicarlas en proyectos reales. También disfruto haciendo deportes al aire libre, leyendo y pasando tiempo con mi familia y amigos. Mis fortalezas incluyen creatividad, empatía, trabajo en equipo, habilidades comunicativas, orientación a resultados y metodología. Estoy emocionada por seguir evolucionando y creando soluciones innovadoras en el mundo digital.</h5>
 
+<h5>Soy una Junior FullStack Developer apasionada por el desarrollo web y actualmente estoy completando mi formación en programación. Me encanta aprender nuevas habilidades y aplicarlas en proyectos reales. También disfruto haciendo deportes al aire libre, leyendo y pasando tiempo con mi familia y amigos. Mis fortalezas incluyen creatividad, empatía, trabajo en equipo, habilidades comunicativas, orientación a resultados y metodología. Estoy emocionada por seguir evolucionando y creando soluciones innovadoras en el mundo digital.</h5>
+<h3 align="left">Perfil:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anagararna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana garcía arnaiz" height="30" width="40" /></a>
 </p>
