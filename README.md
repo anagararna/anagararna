@@ -24,10 +24,16 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" alt="composer" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagararna&langs_count=8" alt="anagararna" />
-<img src="https://github-readme-stats.vercel.app/api?username=anagararna&theme=dark&show_icons=true" align="left">
-</p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anagararna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anagararna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=anagararna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+ 
+---
+[![](https://visitcount.itsvg.in/api?id=anagararna&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
